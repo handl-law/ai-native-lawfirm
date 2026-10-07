@@ -5,7 +5,7 @@ description: "Erstellt kohärente österreichische Vertragsentwürfe aus konkret
 
 # Österreichische Verträge gestalten
 
-Österreichische Neufassung für handl-law, 7. Oktober 2026, auf Grundlage der Workflow-Struktur von Klotzkette. Version 0.1.0; keine behauptete fachliche Freigabe.
+Österreichische Neufassung für handl-law, 7. Oktober 2026, auf Grundlage der Workflow-Struktur von Klotzkette. Version 0.2.0; Data-&-Technology-Anschluss ergänzt, keine behauptete fachliche Freigabe.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -16,6 +16,10 @@ Erstellt kohärente österreichische Vertragsentwürfe aus konkretem Geschäftsa
 Parteiidentität, Vertretung, Geschäftszweck, Leistung, Gegenleistung, Termine, Risiken, Rechtswahl und vorhandene Vorlagen. Lies vorhandene Unterlagen zuerst und übernimm bereits bestätigte Antworten. Stelle nur Rückfragen, deren Antwort das konkrete Ergebnis verändert. Fehlende Tatsachen bleiben ausdrücklich offen.
 
 ## 3. Ablauf / Checkliste
+
+### 3.0. Data-&-Technology-Anschluss
+
+Bei einem Auftrag aus der Data-&-Technology-Praxis nutze den [Praxisrouter](../data-technology-steuern/SKILL.md) und die konkret passende Vertiefung: [it-vertraege-tech](../it-vertraege-tech/SKILL.md), [avv-transfer-tech](../avv-transfer-tech/SKILL.md), [data-act-tech](../data-act-tech/SKILL.md), [ip-lizenzen-tech](../ip-lizenzen-tech/SKILL.md), [marken-geheimnisse-tech](../marken-geheimnisse-tech/SKILL.md). EU-Sachrecht bleibt der europäische Kern; österreichische Umsetzung, Verfahren, Behörden und Vertragsrecht ergänzen. Beauftragt relevante Regeln anwenden und das konkrete Produkt fertigstellen, statt alle Fachgebiete auf Vorrat zu prüfen.
 
 ### 3.1. Bearbeitungsschritt
 

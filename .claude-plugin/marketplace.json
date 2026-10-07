@@ -1550,8 +1550,8 @@
     {
       "name": "ki-native-kanzlei-at",
       "source": "./ki-native-kanzlei-at",
-      "description": "Achtzehn österreichische Kanzlei-Workflows für Mandat, Fristen, RAO, Honorar, Recherche, ERV-Vorbereitung und Abrechnung. Lokales Journal; keine automatische Einreichung.",
-      "version": "0.1.0",
+      "description": "Österreichische Kanzlei mit Data-&-Technology-Fokus: 18 Kanzlei-Workflows, Praxisrouter und 13 Vertiefungen zu IT, Daten, KI, Cybersecurity, digitalen Märkten und IP. EU-Kern mit österreichischen Ergänzungen.",
+      "version": "0.2.0",
       "author": {
         "name": "handl-law"
       }

@@ -1,6 +1,6 @@
 # 1. Österreichische Arbeitsweise
 
-Diese Neufassung ist ein eigenständiges österreichisches Paket. Die übrigen deutschen Plugins im Fork bleiben deutsche Inhalte. Lade sie nicht als österreichische Rechtsreferenzen. Die 18 neuen Skills sind kompaktere Neufassungen; die Seiten- und Qualitätsangaben des deutschen Pakets gelten hier nicht.
+Diese Neufassung ist ein eigenständiges österreichisches Paket. Die übrigen deutschen Plugins im Fork bleiben deutsche Inhalte. Lade sie nicht als österreichische Rechtsreferenzen. Die 18 Kanzleiskills sind kompaktere Neufassungen; 13 Fachskills und ein Router ergänzen Data & Technology; die Seiten- und Qualitätsangaben des deutschen Pakets gelten hier nicht.
 
 ## 1.1. Vom Auftrag zum Produkt
 
@@ -22,4 +22,4 @@ Honorarvereinbarung, RATG-/AHK-Bewertung und gegnerischer Kostenersatz bleiben g
 
 ## 1.5. Prüfstatus
 
-Version 0.1.0 ist eine österreichische Arbeitsfassung. Technische Tests prüfen lokale Verarbeitung und Paketstruktur, keine vollständige anwaltliche Rechtsprüfung oder Qualität jedes möglichen Mandatsergebnisses. Der Quellenplan dokumentiert gelesene Grundlagen und noch fallbezogen zu prüfende Quellen; eine Rechtsquelle ist nicht automatisch die richtige Norm für den konkreten Fall.
+Version 0.2.0 ist eine österreichische Arbeitsfassung. Technische Tests prüfen lokale Verarbeitung und Paketstruktur, keine vollständige anwaltliche Rechtsprüfung oder Qualität jedes möglichen Mandatsergebnisses. Der Quellenplan dokumentiert gelesene Grundlagen und noch fallbezogen zu prüfende Quellen; eine Rechtsquelle ist nicht automatisch die richtige Norm für den konkreten Fall.

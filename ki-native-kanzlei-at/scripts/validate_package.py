@@ -24,6 +24,25 @@ def validate():
         'vertraege-gestalten', 'mandantenkommunikation', 'erv-beilagen-vorbereiten',
         'abrechnung-e-rechnung', 'zahlungen-buchhaltung', 'mandat-abschliessen'
     }
+    core = expected.copy()
+    profile = json.loads((ROOT / 'references/data-technology/praxisprofil.json').read_text())
+    specialists = set(profile['specialist_skills'])
+    assert len(specialists) == len(profile['specialist_skills']) == 13
+    assert profile['schema_version'] == 1 and profile['version'] == manifest['version']
+    assert profile['router'] == 'data-technology-steuern'
+    assert len(profile['areas']) == len({a['id'] for a in profile['areas']}) == 6
+    assert {s for a in profile['areas'] for s in a['skills']} == specialists
+    expected |= specialists | {profile['router']}
+    assert len(expected) == 32
+    assert set(profile['core_skill_routes']) == core
+    assert all(routes and set(routes) <= expected for routes in profile['core_skill_routes'].values())
+    register = json.loads((ROOT / 'references/data-technology/quellenregister.json').read_text())
+    assert register['schema_version'] == 1
+    assert len({s['id'] for s in register['sources']}) == len(register['sources'])
+    for source in register['sources']:
+        assert source['status'] in register['statuses']
+        assert source['url'].startswith('https://') and source['scope']
+        assert re.fullmatch(r'\d{4}-\d{2}-\d{2}', source['checked_on'])
     paths = list((ROOT / 'skills').glob('*/SKILL.md'))
     assert {p.parent.name for p in paths} == expected
     for path in paths:
@@ -52,7 +71,7 @@ def validate():
         entries = [p for p in marketplace['plugins'] if p['name'] == manifest['name']]
         assert len(entries) == 1 and entries[0]['source'] == './ki-native-kanzlei-at'
         assert entries[0]['version'] == manifest['version']
-    print('PASS: 18 Skills, Manifest, lokale Links, Herkunft/Lizenzen und Marketplace-Eintrag')
+    print('PASS: 32 Skills, sechs Praxisfelder, Routing/Quellenregister, Manifest, lokale Links, Herkunft/Lizenzen und Marketplace-Eintrag')
 
 
 if __name__ == '__main__':

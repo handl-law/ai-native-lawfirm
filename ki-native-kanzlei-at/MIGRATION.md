@@ -23,3 +23,7 @@ Benutze für die österreichischen Helfer einen neuen Mandatsordner. Ein deutsch
 ## 1.2. Fachliche Prüfung vor Freigabe
 
 Die Normgrundlagen im Quellenprotokoll wurden abgerufen; das ist keine Prüfung sämtlicher Mandatskonstellationen. Offene vertiefte Prüfungen betreffen insbesondere aktuelle RL-BA/AHK- und Kammer-/Treuhandfassungen, Gebührenbewertungen, Verfahrenssonderfälle, Rechtsmittelfristen, ERV-Zustellung und technische Empfängervorgaben. Fallbezogene Quellenprüfung ist in jedem Skill verbindlich. Automatischer ERV-Versand, österreichischer XML-Rechnungsexport und Calendar-/Kanzleisoftwareanschlüsse sind nicht implementiert.
+
+## 1.7. Version 0.2.0: Data & Technology
+
+Dreizehn Fachskills und ein Router ergänzen die achtzehn Kanzleiabläufe anhand der sechs CHG-Praxisfelder. Europäische Prüfkonzepte bleiben im EU-Kern; österreichische Behörden, Umsetzung, privates Recht und Verfahren werden gesondert geführt. Quellenregister unterscheidet gelesene Stellen und Rechercheeinstiege. Die übrigen Fachpakete und technischen Helfer bleiben unverändert.

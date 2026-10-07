@@ -1,10 +1,12 @@
 # 1. KI-native Kanzlei Österreich
 
-Österreichische Adaption für **handl-law** auf Grundlage von [Klotzkettes KI-native Kanzlei](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-native-kanzlei). Version **0.1.0**, 7. Oktober 2026. Achtzehn kompaktere, neu geschriebene Workflows; kein Anspruch auf Übernahme des Umfangs oder der fachlichen Qualitätsnachweise des deutschen Originals.
+Österreichische Adaption für **handl-law** auf Grundlage von [Klotzkettes KI-native Kanzlei](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-native-kanzlei). Version **0.2.0**, 7. Oktober 2026. 32 Workflows: achtzehn Kanzleiabläufe, ein Fachrouter und dreizehn Data-&-Technology-Vertiefungen; kein Anspruch auf Übernahme des Umfangs oder der fachlichen Qualitätsnachweise des deutschen Originals.
 
 ## 1.1. Enthaltene Workflows
 
 Mandatssteuerung, Annahme/Kollision, Akte/Fristen, Fristenberechnung, Anwaltsberufsrecht, Geldwäsche, Honorar/Budget, tatsächliche Zeit, Übergabe, Recherche, Schriftsätze, AGB-Prüfung, Vertragsgestaltung, Mandantenkommunikation, ERV/Beilagen, Honorarnote/E-Rechnung, Zahlungen/Buchhaltung und Abschluss. Die österreichische ERV-Funktion heißt `erv-beilagen-vorbereiten`; sie ersetzt im AT-Paket `bea-anlagen-vorbereiten`.
+
+Siehe [Praxisfelder, Fachskills und gemeinsamer EU-Kern](references/data-technology/README.md). Der Schwerpunkt entspricht den sechs öffentlich beschriebenen CHG-Praxisfeldern. EU-Prüfkonzepte bleiben erhalten; österreichische Ergänzungen werden separat geführt.
 
 ## 1.2. Direkt anfangen
 

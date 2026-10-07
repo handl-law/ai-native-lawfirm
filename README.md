@@ -1,4 +1,4 @@
-> Österreichische Adaption für handl-law: [KI-native Kanzlei Österreich](./ki-native-kanzlei-at/README.md), Version 0.1.0, 18 neu geschriebene Workflows. Nur dieses AT-Paket wird adaptiert; die übrige Sammlung bleibt deutsches Recht. [Änderungen und offener fachlicher Prüfbedarf](./ki-native-kanzlei-at/MIGRATION.md).
+> Österreichische Adaption für handl-law: [KI-native Kanzlei Österreich](./ki-native-kanzlei-at/README.md), Version 0.2.0, 32 Workflows mit Schwerpunkt [Data & Technology](./ki-native-kanzlei-at/references/data-technology/README.md). Nur dieses AT-Paket wird adaptiert; die übrige Sammlung bleibt deutsches Recht. [Änderungen und offener fachlicher Prüfbedarf](./ki-native-kanzlei-at/MIGRATION.md).
 
 # Claude – Deutsche rechtliche Fähigkeiten / German Legal Skills
 

@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "ki-native-kanzlei-at",
-  "version": "0.1.0",
-  "description": "Achtzehn österreichische Kanzlei-Workflows für Mandat, Fristen, RAO, Honorar, Recherche, ERV-Vorbereitung und Abrechnung. Lokales Journal; keine automatische Einreichung.",
+  "version": "0.2.0",
+  "description": "Österreichische Kanzlei mit Data-&-Technology-Fokus: 18 Kanzlei-Workflows, Praxisrouter und 13 Vertiefungen zu IT, Daten, KI, Cybersecurity, digitalen Märkten und IP. EU-Kern mit österreichischen Ergänzungen.",
   "author": {
     "name": "handl-law"
   },
@@ -10,12 +10,12 @@
     "com.openai": {
       "interface": {
         "displayName": "KI-native Kanzlei Österreich",
-        "shortDescription": "Österreichische Kanzleiabläufe",
-        "longDescription": "Achtzehn österreichische Kanzlei-Workflows für Mandat, Fristen, RAO, Honorar, Recherche, ERV-Vorbereitung und Abrechnung. Lokales Journal; keine automatische Einreichung.",
+        "shortDescription": "Data & Technology Österreich",
+        "longDescription": "Österreichische Kanzlei mit Data-&-Technology-Fokus: 18 Kanzlei-Workflows, Praxisrouter und 13 Vertiefungen zu IT, Daten, KI, Cybersecurity, digitalen Märkten und IP. EU-Kern mit österreichischen Ergänzungen.",
         "developerName": "handl-law",
         "category": "Productivity",
         "capabilities": [],
-        "defaultPrompt": "Bearbeite mein österreichisches Mandat und führe Honorargrundlage, tatsächliche Zeit sowie den Rechnungsentwurf mit. Frage nach dem jetzt gewünschten Arbeitsschritt und nach fehlenden Zeit- oder Honorarangaben."
+        "defaultPrompt": "Bearbeite mein österreichisches Data-&-Technology-Mandat mit data-technology-steuern und dem passenden Fachworkflow. Liefere das konkret verlangte vollständige Produkt, erhalte den EU-Kern und prüfe die österreichischen Ergänzungen. Führe bestätigte Honorargrundlage und tatsächliche Zeit mit."
       }
     }
   }
