@@ -1548,6 +1548,15 @@
       "source": "./ki-native-kanzlei"
     },
     {
+      "name": "ki-native-kanzlei-at",
+      "source": "./ki-native-kanzlei-at",
+      "description": "Achtzehn österreichische Kanzlei-Workflows für Mandat, Fristen, RAO, Honorar, Recherche, ERV-Vorbereitung und Abrechnung. Lokales Journal; keine automatische Einreichung.",
+      "version": "0.1.0",
+      "author": {
+        "name": "handl-law"
+      }
+    },
+    {
       "name": "ki-richtlinie-kanzleien",
       "source": "./ki-richtlinie-kanzleien",
       "description": "Erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlinie für Kanzleien und Rechtsabteilungen mit Anwaelten und Syndikus-Anwaelten. Beruht auf BRAO, BORA, DSGVO, KI-Verordnung sowie BRAK- und DAV-Hinweisen.",

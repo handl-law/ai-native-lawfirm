@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ki-native-kanzlei-at",
+  "version": "0.1.0",
+  "description": "Achtzehn österreichische Kanzlei-Workflows für Mandat, Fristen, RAO, Honorar, Recherche, ERV-Vorbereitung und Abrechnung. Lokales Journal; keine automatische Einreichung.",
+  "author": {
+    "name": "handl-law"
+  },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "KI-native Kanzlei Österreich",
+        "shortDescription": "Österreichische Kanzleiabläufe",
+        "longDescription": "Achtzehn österreichische Kanzlei-Workflows für Mandat, Fristen, RAO, Honorar, Recherche, ERV-Vorbereitung und Abrechnung. Lokales Journal; keine automatische Einreichung.",
+        "developerName": "handl-law",
+        "category": "Productivity",
+        "capabilities": [],
+        "defaultPrompt": "Bearbeite mein österreichisches Mandat und führe Honorargrundlage, tatsächliche Zeit sowie den Rechnungsentwurf mit. Frage nach dem jetzt gewünschten Arbeitsschritt und nach fehlenden Zeit- oder Honorarangaben."
+      }
+    }
+  }
+}

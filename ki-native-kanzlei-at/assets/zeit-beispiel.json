@@ -1,0 +1,11 @@
+{
+  "id": "Z1",
+  "terms_id": "H1",
+  "person": "Beispielperson",
+  "work_date": "2026-10-07",
+  "minutes": 18,
+  "narrative": "Vertrag auf Grundlage des Mandatsauftrags geprüft",
+  "billable": true,
+  "source": "Bestätigte Beispielangabe",
+  "confirmed": true
+}

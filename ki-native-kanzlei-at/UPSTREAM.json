@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "commit": "1923e2aab44291fb93b34ae903630c625904ccd7",
+  "package": "ki-native-kanzlei",
+  "upstream_version": "445.33.4",
+  "adapted_by": "handl-law",
+  "adaptation_version": "0.1.0",
+  "date": "2026-10-07",
+  "scope": "18 Austrian workflow rewrites and local helper adaptations",
+  "legal_review_complete": false
+}
