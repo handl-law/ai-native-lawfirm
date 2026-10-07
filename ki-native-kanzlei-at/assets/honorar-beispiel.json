@@ -1,0 +1,12 @@
+{
+  "id": "H1",
+  "model": "hourly",
+  "scope": "Vertragsprüfung",
+  "agreement_ref": "Bestätigte Vereinbarung im Beispiel",
+  "confirmed": true,
+  "rate_eur": "240.00",
+  "vat_rate": "20",
+  "jurisdiction": "AT",
+  "tax_reviewed": true,
+  "tax_basis_ref": "Isolierte Rechendemonstration: angenommener geprüfter Inlandsumsatz"
+}

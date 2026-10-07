@@ -1,3 +1,5 @@
+> Österreichische Adaption für handl-law: [KI-native Kanzlei Österreich](./ki-native-kanzlei-at/README.md), Version 0.1.0, 18 neu geschriebene Workflows. Nur dieses AT-Paket wird adaptiert; die übrige Sammlung bleibt deutsches Recht. [Änderungen und offener fachlicher Prüfbedarf](./ki-native-kanzlei-at/MIGRATION.md).
+
 # Claude – Deutsche rechtliche Fähigkeiten / German Legal Skills
 
 [Plugins](#was-ist-drin) · [Skills](./SKILLS.md) · [Werkstatt-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) · [Mini-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) · [Schwerpunkt-Prompts](./SCHWERPUNKTE.md) · [Qualitätslabor](./QUALITY.md) · [Testakten](./testakten/README.md) · [Installation](./INSTALLATION_EINFACH.md) · [ChatGPT und App](#chatgpt-und-die-chatgpt-app) · [English](#english-quick-guide)
