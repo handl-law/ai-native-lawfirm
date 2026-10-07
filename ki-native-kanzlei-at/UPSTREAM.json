@@ -4,8 +4,9 @@
   "package": "ki-native-kanzlei",
   "upstream_version": "445.33.4",
   "adapted_by": "handl-law",
-  "adaptation_version": "0.1.0",
+  "adaptation_version": "0.2.0",
   "date": "2026-10-07",
-  "scope": "18 Austrian workflow rewrites and local helper adaptations",
-  "legal_review_complete": false
+  "scope": "18 Austrian core workflows plus 13 Data & Technology specialists and one router",
+  "legal_review_complete": false,
+  "practice_profile": "references/data-technology/praxisprofil.json"
 }

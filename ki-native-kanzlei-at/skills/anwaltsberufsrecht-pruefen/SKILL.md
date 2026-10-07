@@ -5,7 +5,7 @@ description: "Prüft österreichische anwaltliche Berufspflichten bei Konflikten
 
 # Österreichisches Berufsrecht prüfen
 
-Österreichische Neufassung für handl-law, 7. Oktober 2026, auf Grundlage der Workflow-Struktur von Klotzkette. Version 0.1.0; keine behauptete fachliche Freigabe.
+Österreichische Neufassung für handl-law, 7. Oktober 2026, auf Grundlage der Workflow-Struktur von Klotzkette. Version 0.2.0; Data-&-Technology-Anschluss ergänzt, keine behauptete fachliche Freigabe.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -16,6 +16,10 @@ Prüft österreichische anwaltliche Berufspflichten bei Konflikten, Verschwiegen
 Konkrete Handlung, zuständige Rechtsanwaltskammer, Parteirollen, Datenfluss, Verträge, Honorar- und Treuhandsituation. Lies vorhandene Unterlagen zuerst und übernimm bereits bestätigte Antworten. Stelle nur Rückfragen, deren Antwort das konkrete Ergebnis verändert. Fehlende Tatsachen bleiben ausdrücklich offen.
 
 ## 3. Ablauf / Checkliste
+
+### 3.0. Data-&-Technology-Anschluss
+
+Bei einem Auftrag aus der Data-&-Technology-Praxis nutze den [Praxisrouter](../data-technology-steuern/SKILL.md) und die konkret passende Vertiefung: [ki-governance-tech](../ki-governance-tech/SKILL.md), [avv-transfer-tech](../avv-transfer-tech/SKILL.md). EU-Sachrecht bleibt der europäische Kern; österreichische Umsetzung, Verfahren, Behörden und Vertragsrecht ergänzen. Beauftragt relevante Regeln anwenden und das konkrete Produkt fertigstellen, statt alle Fachgebiete auf Vorrat zu prüfen.
 
 ### 3.1. Bearbeitungsschritt
 

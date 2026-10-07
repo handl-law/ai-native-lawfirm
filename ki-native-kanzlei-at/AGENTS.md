@@ -4,7 +4,7 @@ Diese Datei gilt im gesamten Ordner ki-native-kanzlei-at. Die Format- und Ausfor
 
 ## 1.1. Produkt und Rechtsstatus
 
-Erstelle das konkret beauftragte vollständige Arbeitsprodukt. Keine Norm, Geschäftszahl, Zustellung, Rechtsmittelfrist, Steuerklassifikation oder Zeiterfassung erfinden. Version 0.1.0 ist keine behauptete fachliche Freigabe. Amtliche Grundlagen ersetzen nicht die Prüfung ihrer Anwendbarkeit im Mandat.
+Erstelle das konkret beauftragte vollständige Arbeitsprodukt. Keine Norm, Geschäftszahl, Zustellung, Rechtsmittelfrist, Steuerklassifikation oder Zeiterfassung erfinden. Version 0.2.0 ist keine behauptete fachliche Freigabe. Amtliche Grundlagen ersetzen nicht die Prüfung ihrer Anwendbarkeit im Mandat.
 
 ## 1.2. Lokale Werkzeuge
 

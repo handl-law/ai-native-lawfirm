@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-10-07",
+  "statuses": {
+    "read": "Bezeichneten Umfang tatsächlich gelesen; keine vollständige Anwendbarkeitsprüfung",
+    "research_entry": "Rechercheeinstieg; nicht als gelesenen Normbeleg zitieren"
+  },
+  "sources": [
+    {
+      "id": "gdpr",
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng",
+      "status": "read",
+      "checked_on": "2026-10-07",
+      "scope": "DSGVO-Volltext; Art. 28 und Transfer-/DSFA-/Meldekonzepte"
+    },
+    {
+      "id": "data_act",
+      "url": "https://eur-lex.europa.eu/eli/reg/2023/2854/oj/eng",
+      "status": "read",
+      "checked_on": "2026-10-07",
+      "scope": "Volltext; insbesondere Art. 50"
+    },
+    {
+      "id": "cra",
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/2847/oj/eng",
+      "status": "read",
+      "checked_on": "2026-10-07",
+      "scope": "Volltext; insbesondere Art. 14, 69, 71"
+    },
+    {
+      "id": "nis2",
+      "url": "https://eur-lex.europa.eu/eli/dir/2022/2555/oj/eng",
+      "status": "read",
+      "checked_on": "2026-10-07",
+      "scope": "EU-Richtlinie; nationale Umsetzung gesondert"
+    },
+    {
+      "id": "dsa",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2065/oj/eng",
+      "status": "read",
+      "checked_on": "2026-10-07",
+      "scope": "Volltext; Rollen und Pflichten"
+    },
+    {
+      "id": "ai_act",
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng",
+      "status": "read",
+      "checked_on": "2026-10-07",
+      "scope": "Konsolidierter Text; insbesondere Art. 111/113 und Änderung 2026/1744; keine Vollprüfung aller Artikel"
+    },
+    {
+      "id": "dma",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/1925/oj/eng",
+      "status": "research_entry",
+      "checked_on": "2026-10-07",
+      "scope": "Direktabruf fehlgeschlagen; Gatekeeper-Scope und aktuellen Volltext im Mandat prüfen"
+    },
+    {
+      "id": "dora",
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng",
+      "status": "research_entry",
+      "checked_on": "2026-10-07",
+      "scope": "Finanzsektor-Scope und aktuelle Meldevorschriften nicht abschließend geprüft"
+    },
+    {
+      "id": "dsb_sources",
+      "url": "https://dsb.gv.at/rechte-pflichten/rechtsquellen",
+      "status": "read",
+      "checked_on": "2026-10-07",
+      "scope": "Behördlicher Quellenweg einschließlich DSFA-Verordnungen; kein Ersatz für Volltexte"
+    },
+    {
+      "id": "dsc_at",
+      "url": "https://www.rtr.at/medien/wer_wir_sind/Koordinator_fuer_Digitale_Dienste/Start_Koordinator-fuer-Digitale-Dienste.de.html",
+      "status": "read",
+      "checked_on": "2026-10-07",
+      "scope": "KommAustria als österreichischer DSA-Koordinator"
+    },
+    {
+      "id": "nisg2026",
+      "url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013065&Paragraf=51",
+      "status": "read",
+      "checked_on": "2026-10-07",
+      "scope": "Gelesen §§ 35 und 51; konkrete Meldenorm und Schnittstelle noch fallbezogen prüfen"
+    },
+    {
+      "id": "urhg",
+      "url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=40b",
+      "status": "read",
+      "checked_on": "2026-10-07",
+      "scope": "Gelesen §§ 40b und 42h; keine vollständige IP-Prüfung"
+    },
+    {
+      "id": "tkg2021",
+      "url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011678&Paragraf=165",
+      "status": "read",
+      "checked_on": "2026-10-07",
+      "scope": "Gerätezugriff/Cookies, insbesondere Abs. 3"
+    },
+    {
+      "id": "dsg",
+      "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001597",
+      "status": "research_entry",
+      "checked_on": "2026-10-07",
+      "scope": "Aktuellen einschlägigen Volltext abrufen; DSG § 24 Einzelabruf fehlgeschlagen"
+    },
+    {
+      "id": "dsfa_v",
+      "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010375",
+      "status": "research_entry",
+      "checked_on": "2026-10-07",
+      "scope": "Quelle identifiziert; einschlägige Bestimmungen fallbezogen lesen"
+    },
+    {
+      "id": "dsfa_av",
+      "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010206",
+      "status": "research_entry",
+      "checked_on": "2026-10-07",
+      "scope": "Quelle identifiziert; einschlägige Bestimmungen fallbezogen lesen"
+    },
+    {
+      "id": "bafg",
+      "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012316",
+      "status": "research_entry",
+      "checked_on": "2026-10-07",
+      "scope": "Quelle identifiziert; einschlägige Bestimmungen fallbezogen lesen"
+    },
+    {
+      "id": "kdd_g",
+      "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012478",
+      "status": "research_entry",
+      "checked_on": "2026-10-07",
+      "scope": "Quelle identifiziert; einschlägige Bestimmungen fallbezogen lesen"
+    },
+    {
+      "id": "ris_other",
+      "url": "https://www.ris.bka.gv.at/Bundesrecht/",
+      "status": "research_entry",
+      "checked_on": "2026-10-07",
+      "scope": "ABGB, UGB, ECG, FAGG, KSchG, VGG, UWG, ArbVG, MSchG, MuSchG, PatG und Verfahrensrecht konkret abrufen"
+    },
+    {
+      "id": "software_directive",
+      "url": "https://eur-lex.europa.eu/eli/dir/2009/24/oj/eng",
+      "status": "research_entry",
+      "checked_on": "2026-10-07",
+      "scope": "Software-Richtlinie; österreichische UrhG-Umsetzung gesondert"
+    },
+    {
+      "id": "dsm_directive",
+      "url": "https://eur-lex.europa.eu/eli/dir/2019/790/oj/eng",
+      "status": "research_entry",
+      "checked_on": "2026-10-07",
+      "scope": "DSM-Richtlinie, insbesondere TDM; österreichische Umsetzung gesondert"
+    },
+    {
+      "id": "scc",
+      "url": "https://eur-lex.europa.eu/eli/dec/2021/914/oj/eng",
+      "status": "research_entry",
+      "checked_on": "2026-10-07",
+      "scope": "SCC-Beschluss; konkrete Module, Anhänge und aktueller Stand im Mandat lesen"
+    }
+  ]
+}

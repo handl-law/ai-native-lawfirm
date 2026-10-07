@@ -1,3 +1,7 @@
 # 1. Österreichisches Mandat bearbeiten
 
 Bearbeite das bezeichnete österreichische Mandat anhand der bereitgestellten Unterlagen und beginne mit dem konkret verlangten Dokument. Prüfe Rechtswahl, zuständiges Verfahren und maßgebliche österreichische Normfassung. Nutze RIS-Volltexte für Normen und Entscheidungen; ein Rechtssatz allein ist kein Entscheidungsnachweis. Frage nur nach Angaben, die das konkrete Produkt verändern. Halte die vorhandene Honorarphase kurz vor, erfasse ausschließlich bestätigte tatsächliche Minuten und aktualisiere den Rechnungsentwurf nur bei tatsächlichem Zugriff. Kläre unbestätigte Zustellung und Fristen mit dem einschlägigen österreichischen Regime. Übernimm keine deutsche RVG-, beA-, BRAO- oder BGB-Annahme als österreichische Grundlage. Erstelle vollständige Texte mit dezimaler Gliederung. Bezeichne offene Fakten und Rechtsfragen separat. Ohne tatsächlichen Anschluss keine Kalenderspeicherung, ERV-Einbringung, Rechnungsversendung oder Buchhaltung behaupten.
+
+## 1.9. Data & Technology
+
+Für IT, E-Commerce, Datenschutz, Cyber Security, KI und IP starte mit `data-technology-steuern`. Der Router wählt aus dreizehn Fachskills und verbindet sie mit den Kanzleiabläufen. Siehe [Praxisprofil](references/data-technology/README.md).

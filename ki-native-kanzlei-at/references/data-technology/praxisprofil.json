@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "version": "0.2.0",
+  "source_date": "2026-10-07",
+  "practice_sources": [
+    "https://www.chg.at/praxisgruppe-data-technology/",
+    "https://www.chg.at/en/profile/mag-clemens-handl/",
+    "https://www.chg.at/fachgebiete/"
+  ],
+  "router": "data-technology-steuern",
+  "specialist_skills": [
+    "it-vertraege-tech",
+    "it-projekte-streit",
+    "datenschutz-compliance-tech",
+    "avv-transfer-tech",
+    "dsfa-ki-tech",
+    "datenschutz-verfahren-tech",
+    "cyber-incident-tech",
+    "nis2-cra-compliance-tech",
+    "ki-governance-tech",
+    "data-act-tech",
+    "ecommerce-plattformen-tech",
+    "ip-lizenzen-tech",
+    "marken-geheimnisse-tech"
+  ],
+  "areas": [
+    {
+      "id": "it",
+      "label": "IT-Recht",
+      "skills": [
+        "it-vertraege-tech",
+        "it-projekte-streit"
+      ]
+    },
+    {
+      "id": "digital_markets",
+      "label": "E-Commerce & digitale Märkte",
+      "skills": [
+        "ecommerce-plattformen-tech"
+      ]
+    },
+    {
+      "id": "data_privacy",
+      "label": "Daten & Datenschutz",
+      "skills": [
+        "datenschutz-compliance-tech",
+        "avv-transfer-tech",
+        "dsfa-ki-tech",
+        "datenschutz-verfahren-tech",
+        "data-act-tech"
+      ]
+    },
+    {
+      "id": "cyber",
+      "label": "Compliance & Cyber Security",
+      "skills": [
+        "cyber-incident-tech",
+        "nis2-cra-compliance-tech"
+      ]
+    },
+    {
+      "id": "ai",
+      "label": "Digitalisierung & Künstliche Intelligenz",
+      "skills": [
+        "ki-governance-tech",
+        "dsfa-ki-tech"
+      ]
+    },
+    {
+      "id": "ip",
+      "label": "Geistiges Eigentum",
+      "skills": [
+        "ip-lizenzen-tech",
+        "marken-geheimnisse-tech"
+      ]
+    }
+  ],
+  "core_skill_routes": {
+    "ki-kanzlei-steuern": [
+      "data-technology-steuern"
+    ],
+    "mandatsannahme-interessenkollision": [
+      "data-technology-steuern"
+    ],
+    "akte-fristen-anlegen": [
+      "cyber-incident-tech",
+      "datenschutz-verfahren-tech"
+    ],
+    "fristen-berechnen-ueberwachen": [
+      "cyber-incident-tech",
+      "datenschutz-verfahren-tech"
+    ],
+    "anwaltsberufsrecht-pruefen": [
+      "ki-governance-tech",
+      "avv-transfer-tech"
+    ],
+    "geldwaesche-pruefen": [
+      "data-technology-steuern"
+    ],
+    "honorar-budget-vereinbaren": [
+      "it-vertraege-tech",
+      "it-projekte-streit"
+    ],
+    "zeiten-erfassen": [
+      "data-technology-steuern"
+    ],
+    "workflow-uebergabe": [
+      "data-technology-steuern"
+    ],
+    "recht-recherchieren": [
+      "data-technology-steuern"
+    ],
+    "schriftsaetze-entwerfen": [
+      "it-projekte-streit",
+      "datenschutz-verfahren-tech",
+      "marken-geheimnisse-tech"
+    ],
+    "vertraege-agb-pruefen": [
+      "it-vertraege-tech",
+      "avv-transfer-tech",
+      "ecommerce-plattformen-tech",
+      "ip-lizenzen-tech"
+    ],
+    "vertraege-gestalten": [
+      "it-vertraege-tech",
+      "avv-transfer-tech",
+      "data-act-tech",
+      "ip-lizenzen-tech",
+      "marken-geheimnisse-tech"
+    ],
+    "mandantenkommunikation": [
+      "cyber-incident-tech",
+      "ki-governance-tech",
+      "data-technology-steuern"
+    ],
+    "erv-beilagen-vorbereiten": [
+      "it-projekte-streit",
+      "datenschutz-verfahren-tech"
+    ],
+    "abrechnung-e-rechnung": [
+      "data-technology-steuern"
+    ],
+    "zahlungen-buchhaltung": [
+      "data-technology-steuern"
+    ],
+    "mandat-abschliessen": [
+      "it-vertraege-tech",
+      "ip-lizenzen-tech",
+      "datenschutz-compliance-tech"
+    ]
+  },
+  "eu_policy": "EU substantive frameworks retained; Austria-specific implementation, authorities, procedure and private law handled separately. Verify current amendments and application dates."
+}

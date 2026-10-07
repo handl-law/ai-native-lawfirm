@@ -40,3 +40,7 @@ Die folgenden Einträge sind **Rechercheeinstiege, nicht vollständig geprüfte 
 | Entscheidungen | RIS-Volltexte von OGH, VfGH, VwGH und einschlägigen Gerichten; keine künstlichen Entscheidungsanker übernommen |
 
 Die BMJ-ERV-Seite wurde im Suchindex gefunden; der direkte Web-Abruf scheiterte mit HTTP 403. Daher wurde kein aktuelles technisches Größen-/Dateilimit aus dieser Quelle als geprüft übernommen. Für mehrere direkte RIS-Aufrufe konnte das Webwerkzeug keinen Inhalt liefern; ein anschließender normaler HTTPS-Abruf über den konfigurierten Proxy lieferte die oben bezeichneten Normtexte. Keine Zugangsbeschränkung wurde verändert.
+
+## 1.9. Data & Technology
+
+Die fachbezogene Ergänzung verwendet den [EU-Kern](data-technology/eu-kern.md), die [österreichische Schicht](data-technology/at-ergaenzungen.md) und das [Quellenregister mit Abrufstatus](data-technology/quellenregister.json). Diese Quellenwege ergänzen die Kanzleiquellen; fehlende Volltextprüfungen bleiben sichtbar.
